@@ -1,0 +1,20 @@
+C:\Projects\Win7EventsLibrary\Settings\bin\Release\EventSubcription.xml
+C:\Projects\Win7EventsLibrary\Settings\bin\Release\Settings.exe.config
+C:\Projects\Win7EventsLibrary\Settings\bin\Release\Settings.exe
+C:\Projects\Win7EventsLibrary\Settings\bin\Release\Settings.pdb
+C:\Projects\Win7EventsLibrary\Settings\obj\x86\Release\Settings.Properties.Resources.resources
+C:\Projects\Win7EventsLibrary\Settings\obj\x86\Release\Settings.Settings.resources
+C:\Projects\Win7EventsLibrary\Settings\obj\x86\Release\Settings.csproj.GenerateResource.Cache
+C:\Projects\Win7EventsLibrary\Settings\obj\x86\Release\Settings.exe
+C:\Projects\Win7EventsLibrary\Settings\obj\x86\Release\Settings.pdb
+C:\Development\Winlogon Notification\WinlogonNotification.git\trunk\Win7EventsLibrary3.0_Complete_Project_03302013\Win7EventsLibrary\Settings\bin\Release\EventSubcription.xml
+C:\Development\Winlogon Notification\WinlogonNotification.git\trunk\Win7EventsLibrary3.0_Complete_Project_03302013\Win7EventsLibrary\Settings\bin\Release\Settings.exe.config
+C:\Development\Winlogon Notification\WinlogonNotification.git\trunk\Win7EventsLibrary3.0_Complete_Project_03302013\Win7EventsLibrary\Settings\bin\Release\Settings.exe
+C:\Development\Winlogon Notification\WinlogonNotification.git\trunk\Win7EventsLibrary3.0_Complete_Project_03302013\Win7EventsLibrary\Settings\bin\Release\Settings.pdb
+C:\Development\Winlogon Notification\WinlogonNotification.git\trunk\Win7EventsLibrary3.0_Complete_Project_03302013\Win7EventsLibrary\Settings\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Development\Winlogon Notification\WinlogonNotification.git\trunk\Win7EventsLibrary3.0_Complete_Project_03302013\Win7EventsLibrary\Settings\obj\x86\Release\Settings.Properties.Resources.resources
+C:\Development\Winlogon Notification\WinlogonNotification.git\trunk\Win7EventsLibrary3.0_Complete_Project_03302013\Win7EventsLibrary\Settings\obj\x86\Release\Settings.Settings.resources
+C:\Development\Winlogon Notification\WinlogonNotification.git\trunk\Win7EventsLibrary3.0_Complete_Project_03302013\Win7EventsLibrary\Settings\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Development\Winlogon Notification\WinlogonNotification.git\trunk\Win7EventsLibrary3.0_Complete_Project_03302013\Win7EventsLibrary\Settings\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Development\Winlogon Notification\WinlogonNotification.git\trunk\Win7EventsLibrary3.0_Complete_Project_03302013\Win7EventsLibrary\Settings\obj\x86\Release\Settings.exe
+C:\Development\Winlogon Notification\WinlogonNotification.git\trunk\Win7EventsLibrary3.0_Complete_Project_03302013\Win7EventsLibrary\Settings\obj\x86\Release\Settings.pdb

@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Win7EventsLibrary", "Win7EventsLibrary\Win7EventsLibrary.csproj", "{40C66A8E-76ED-4AA4-B1D8-12FA15402BD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManagedSENS", "ManagedSENS\ManagedSENS.csproj", "{CD36BE83-6645-4777-8DA7-7069A148CD25}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ServiceSetup", "ServiceSetup\ServiceSetup.vdproj", "{E97D4E36-1357-423D-84AC-406680061B90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Settings", "Settings\Settings.csproj", "{03A18ADC-4AF1-4671-AC74-A04F62270485}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40C66A8E-76ED-4AA4-B1D8-12FA15402BD8}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{40C66A8E-76ED-4AA4-B1D8-12FA15402BD8}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{40C66A8E-76ED-4AA4-B1D8-12FA15402BD8}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{40C66A8E-76ED-4AA4-B1D8-12FA15402BD8}.Debug|x86.ActiveCfg = Debug|x86
+		{40C66A8E-76ED-4AA4-B1D8-12FA15402BD8}.Debug|x86.Build.0 = Debug|x86
+		{40C66A8E-76ED-4AA4-B1D8-12FA15402BD8}.Release|Any CPU.ActiveCfg = Release|x86
+		{40C66A8E-76ED-4AA4-B1D8-12FA15402BD8}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{40C66A8E-76ED-4AA4-B1D8-12FA15402BD8}.Release|Mixed Platforms.Build.0 = Release|x86
+		{40C66A8E-76ED-4AA4-B1D8-12FA15402BD8}.Release|x86.ActiveCfg = Release|x86
+		{40C66A8E-76ED-4AA4-B1D8-12FA15402BD8}.Release|x86.Build.0 = Release|x86
+		{CD36BE83-6645-4777-8DA7-7069A148CD25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD36BE83-6645-4777-8DA7-7069A148CD25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD36BE83-6645-4777-8DA7-7069A148CD25}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{CD36BE83-6645-4777-8DA7-7069A148CD25}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{CD36BE83-6645-4777-8DA7-7069A148CD25}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CD36BE83-6645-4777-8DA7-7069A148CD25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD36BE83-6645-4777-8DA7-7069A148CD25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD36BE83-6645-4777-8DA7-7069A148CD25}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{CD36BE83-6645-4777-8DA7-7069A148CD25}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{CD36BE83-6645-4777-8DA7-7069A148CD25}.Release|x86.ActiveCfg = Release|Any CPU
+		{E97D4E36-1357-423D-84AC-406680061B90}.Debug|Any CPU.ActiveCfg = Debug
+		{E97D4E36-1357-423D-84AC-406680061B90}.Debug|Mixed Platforms.ActiveCfg = Debug
+		{E97D4E36-1357-423D-84AC-406680061B90}.Debug|x86.ActiveCfg = Debug
+		{E97D4E36-1357-423D-84AC-406680061B90}.Release|Any CPU.ActiveCfg = Release
+		{E97D4E36-1357-423D-84AC-406680061B90}.Release|Mixed Platforms.ActiveCfg = Release
+		{E97D4E36-1357-423D-84AC-406680061B90}.Release|x86.ActiveCfg = Release
+		{03A18ADC-4AF1-4671-AC74-A04F62270485}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{03A18ADC-4AF1-4671-AC74-A04F62270485}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{03A18ADC-4AF1-4671-AC74-A04F62270485}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{03A18ADC-4AF1-4671-AC74-A04F62270485}.Debug|x86.ActiveCfg = Debug|x86
+		{03A18ADC-4AF1-4671-AC74-A04F62270485}.Debug|x86.Build.0 = Debug|x86
+		{03A18ADC-4AF1-4671-AC74-A04F62270485}.Release|Any CPU.ActiveCfg = Release|x86
+		{03A18ADC-4AF1-4671-AC74-A04F62270485}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{03A18ADC-4AF1-4671-AC74-A04F62270485}.Release|Mixed Platforms.Build.0 = Release|x86
+		{03A18ADC-4AF1-4671-AC74-A04F62270485}.Release|x86.ActiveCfg = Release|x86
+		{03A18ADC-4AF1-4671-AC74-A04F62270485}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

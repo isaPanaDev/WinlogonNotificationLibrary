@@ -1,0 +1,19 @@
+C:\Projects\Win7EventsLibrary\ManagedSENS\bin\Release\ManagedSENS.dll
+C:\Projects\Win7EventsLibrary\ManagedSENS\bin\Release\ManagedSENS.pdb
+C:\Projects\Win7EventsLibrary\ManagedSENS\bin\Release\Interop.EventSystemLib.dll
+C:\Projects\Win7EventsLibrary\ManagedSENS\bin\Release\Interop.SensEvents.dll
+C:\Projects\Win7EventsLibrary\ManagedSENS\obj\Release\Interop.EventSystemLib.dll
+C:\Projects\Win7EventsLibrary\ManagedSENS\obj\Release\Interop.SensEvents.dll
+C:\Projects\Win7EventsLibrary\ManagedSENS\obj\Release\ManagedSENS.csproj.ResolveComReference.cache
+C:\Projects\Win7EventsLibrary\ManagedSENS\obj\Release\ManagedSENS.dll
+C:\Projects\Win7EventsLibrary\ManagedSENS\obj\Release\ManagedSENS.pdb
+C:\Development\Winlogon Notification\WinlogonNotification.git\trunk\Win7EventsLibrary3.0_Complete_Project_03302013\Win7EventsLibrary\ManagedSENS\bin\Release\ManagedSENS.dll
+C:\Development\Winlogon Notification\WinlogonNotification.git\trunk\Win7EventsLibrary3.0_Complete_Project_03302013\Win7EventsLibrary\ManagedSENS\bin\Release\ManagedSENS.pdb
+C:\Development\Winlogon Notification\WinlogonNotification.git\trunk\Win7EventsLibrary3.0_Complete_Project_03302013\Win7EventsLibrary\ManagedSENS\bin\Release\Interop.EventSystemLib.dll
+C:\Development\Winlogon Notification\WinlogonNotification.git\trunk\Win7EventsLibrary3.0_Complete_Project_03302013\Win7EventsLibrary\ManagedSENS\bin\Release\Interop.SensEvents.dll
+C:\Development\Winlogon Notification\WinlogonNotification.git\trunk\Win7EventsLibrary3.0_Complete_Project_03302013\Win7EventsLibrary\ManagedSENS\obj\Release\ResolveAssemblyReference.cache
+C:\Development\Winlogon Notification\WinlogonNotification.git\trunk\Win7EventsLibrary3.0_Complete_Project_03302013\Win7EventsLibrary\ManagedSENS\obj\Release\Interop.EventSystemLib.dll
+C:\Development\Winlogon Notification\WinlogonNotification.git\trunk\Win7EventsLibrary3.0_Complete_Project_03302013\Win7EventsLibrary\ManagedSENS\obj\Release\Interop.SensEvents.dll
+C:\Development\Winlogon Notification\WinlogonNotification.git\trunk\Win7EventsLibrary3.0_Complete_Project_03302013\Win7EventsLibrary\ManagedSENS\obj\Release\ManagedSENS.csproj.ResolveComReference.cache
+C:\Development\Winlogon Notification\WinlogonNotification.git\trunk\Win7EventsLibrary3.0_Complete_Project_03302013\Win7EventsLibrary\ManagedSENS\obj\Release\ManagedSENS.dll
+C:\Development\Winlogon Notification\WinlogonNotification.git\trunk\Win7EventsLibrary3.0_Complete_Project_03302013\Win7EventsLibrary\ManagedSENS\obj\Release\ManagedSENS.pdb

@@ -1,0 +1,76 @@
+<?xml version="1.0" standalone="yes"?>
+<Category>
+    <xs:schema id="Events" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xs:element name="Events" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+            <xs:complexType>
+                <xs:choice minOccurs="0" maxOccurs="unbounded">
+                    <xs:element name="Table">
+                        <xs:complexType>
+                            <xs:sequence>
+                                <xs:element name="EventID" type="xs:string" minOccurs="0" />
+                                <xs:element name="EventName" type="xs:string" minOccurs="0" />
+                                <xs:element name="ExecutePath" type="xs:string" minOccurs="0" />
+                                <xs:element name="TargetWindow" type="xs:string" minOccurs="0" />
+                            </xs:sequence>
+                        </xs:complexType>
+                    </xs:element>
+                </xs:choice>
+            </xs:complexType>
+        </xs:element>
+    </xs:schema>
+    <Table>
+        <EventID>E001</EventID>
+        <EventName>logoff</EventName>
+        <ExecutePath>C:\Program Files\Windows NT\Accessories\wordpad.exe</ExecutePath>
+        <TargetWindow>WinSta0\Winlogon</TargetWindow>
+    </Table>
+    <Table>
+        <EventID>E002</EventID>
+        <EventName>logon</EventName>
+        <ExecutePath>C:\Windows\system32\mspaint.exe</ExecutePath>
+        <TargetWindow>WinSta0\Default</TargetWindow>
+    </Table>
+    <Table>
+        <EventID>E003</EventID>
+        <EventName>displaylock</EventName>
+        <ExecutePath>C:\Windows\system32\calc.exe</ExecutePath>
+        <TargetWindow>WinSta0\Winlogon</TargetWindow>
+    </Table>
+    <Table>
+        <EventID>E004</EventID>
+        <EventName>displayunlock</EventName>
+        <ExecutePath>C:\Windows\system32\notepad.exe</ExecutePath>
+        <TargetWindow>WinSta0\Default</TargetWindow>
+    </Table>
+    <Table>
+        <EventID>E005</EventID>
+        <EventName>servicestart</EventName>
+        <ExecutePath>C:\Windows\system32\notepad.exe</ExecutePath>
+        <TargetWindow>WinSta0\Winlogon</TargetWindow>
+        </Table>
+    <Table>
+        <EventID>E006</EventID>
+        <EventName>servicestop</EventName>
+        <ExecutePath>C:\Windows\system32\cmd.exe</ExecutePath>
+        <TargetWindow>WinSta0\Winlogon</TargetWindow>
+    </Table>
+    <Table>
+        <EventID>E007</EventID>
+        <EventName>ScreenSaverStart</EventName>
+        <ExecutePath></ExecutePath>
+        <TargetWindow></TargetWindow>
+    </Table>
+    <Table>
+        <EventID>E008</EventID>
+        <EventName>ScreenSaverStop</EventName>
+        <ExecutePath>C:\Windows\system32\notepad.exe</ExecutePath>
+        <TargetWindow>WinSta0\Default</TargetWindow>
+    </Table>
+    <Table>
+        <EventID>E009</EventID>
+        <EventName>startshell</EventName>
+        <ExecutePath>C:\Windows\system32\calc.exe</ExecutePath>
+        <TargetWindow>WinSta0\Winlogon</TargetWindow>
+    </Table>
+
+</Category>

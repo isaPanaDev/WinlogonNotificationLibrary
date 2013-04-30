@@ -1,0 +1,41 @@
+C:\Projects\Win7EventsLibrary\Win7EventsLibrary\bin\Release\EventSubcription.xml
+C:\Projects\Win7EventsLibrary\Win7EventsLibrary\bin\Release\Win7Events.log
+C:\Projects\Win7EventsLibrary\Win7EventsLibrary\bin\Release\App.config
+C:\Projects\Win7EventsLibrary\Win7EventsLibrary\bin\Release\Win7EventsLibrary.exe.config
+C:\Projects\Win7EventsLibrary\Win7EventsLibrary\bin\Release\Win7EventsLibrary.exe
+C:\Projects\Win7EventsLibrary\Win7EventsLibrary\bin\Release\Win7EventsLibrary.pdb
+C:\Projects\Win7EventsLibrary\Win7EventsLibrary\bin\Release\ManagedSENS.dll
+C:\Projects\Win7EventsLibrary\Win7EventsLibrary\bin\Release\Settings.exe
+C:\Projects\Win7EventsLibrary\Win7EventsLibrary\bin\Release\Interop.SensEvents.dll
+C:\Projects\Win7EventsLibrary\Win7EventsLibrary\bin\Release\Interop.EventSystemLib.dll
+C:\Projects\Win7EventsLibrary\Win7EventsLibrary\bin\Release\ManagedSENS.pdb
+C:\Projects\Win7EventsLibrary\Win7EventsLibrary\bin\Release\Settings.pdb
+C:\Projects\Win7EventsLibrary\Win7EventsLibrary\obj\x86\Release\Win7EventsLibrary.csprojResolveAssemblyReference.cache
+C:\Projects\Win7EventsLibrary\Win7EventsLibrary\obj\x86\Release\Interop.EventSystemLib.dll
+C:\Projects\Win7EventsLibrary\Win7EventsLibrary\obj\x86\Release\Interop.SensEvents.dll
+C:\Projects\Win7EventsLibrary\Win7EventsLibrary\obj\x86\Release\Win7EventsLibrary.csproj.ResolveComReference.cache
+C:\Projects\Win7EventsLibrary\Win7EventsLibrary\obj\x86\Release\Win7EventsLibrary.ProjectInstaller.resources
+C:\Projects\Win7EventsLibrary\Win7EventsLibrary\obj\x86\Release\Win7EventsLibrary.csproj.GenerateResource.Cache
+C:\Projects\Win7EventsLibrary\Win7EventsLibrary\obj\x86\Release\Win7EventsLibrary.exe
+C:\Projects\Win7EventsLibrary\Win7EventsLibrary\obj\x86\Release\Win7EventsLibrary.pdb
+C:\Development\Winlogon Notification\WinlogonNotification.git\trunk\Win7EventsLibrary3.0_Complete_Project_03302013\Win7EventsLibrary\Win7EventsLibrary\bin\Release\Win7EventsLibrary.exe.config
+C:\Development\Winlogon Notification\WinlogonNotification.git\trunk\Win7EventsLibrary3.0_Complete_Project_03302013\Win7EventsLibrary\Win7EventsLibrary\obj\x86\Release\Interop.EventSystemLib.dll
+C:\Development\Winlogon Notification\WinlogonNotification.git\trunk\Win7EventsLibrary3.0_Complete_Project_03302013\Win7EventsLibrary\Win7EventsLibrary\obj\x86\Release\Interop.SensEvents.dll
+C:\Development\Winlogon Notification\WinlogonNotification.git\trunk\Win7EventsLibrary3.0_Complete_Project_03302013\Win7EventsLibrary\Win7EventsLibrary\obj\x86\Release\Win7EventsLibrary.csproj.ResolveComReference.cache
+C:\Development\Winlogon Notification\WinlogonNotification.git\trunk\Win7EventsLibrary3.0_Complete_Project_03302013\Win7EventsLibrary\Win7EventsLibrary\obj\x86\Release\Win7EventsLibrary.exe
+C:\Development\Winlogon Notification\WinlogonNotification.git\trunk\Win7EventsLibrary3.0_Complete_Project_03302013\Win7EventsLibrary\Win7EventsLibrary\obj\x86\Release\Win7EventsLibrary.pdb
+C:\Development\Winlogon Notification\WinlogonNotification.git\trunk\Win7EventsLibrary3.0_Complete_Project_03302013\Win7EventsLibrary\Win7EventsLibrary\bin\Release\EventSubcription.xml
+C:\Development\Winlogon Notification\WinlogonNotification.git\trunk\Win7EventsLibrary3.0_Complete_Project_03302013\Win7EventsLibrary\Win7EventsLibrary\bin\Release\Win7Events.log
+C:\Development\Winlogon Notification\WinlogonNotification.git\trunk\Win7EventsLibrary3.0_Complete_Project_03302013\Win7EventsLibrary\Win7EventsLibrary\bin\Release\App.config
+C:\Development\Winlogon Notification\WinlogonNotification.git\trunk\Win7EventsLibrary3.0_Complete_Project_03302013\Win7EventsLibrary\Win7EventsLibrary\bin\Release\Win7EventsLibrary.exe
+C:\Development\Winlogon Notification\WinlogonNotification.git\trunk\Win7EventsLibrary3.0_Complete_Project_03302013\Win7EventsLibrary\Win7EventsLibrary\bin\Release\Win7EventsLibrary.pdb
+C:\Development\Winlogon Notification\WinlogonNotification.git\trunk\Win7EventsLibrary3.0_Complete_Project_03302013\Win7EventsLibrary\Win7EventsLibrary\bin\Release\ManagedSENS.dll
+C:\Development\Winlogon Notification\WinlogonNotification.git\trunk\Win7EventsLibrary3.0_Complete_Project_03302013\Win7EventsLibrary\Win7EventsLibrary\bin\Release\Settings.exe
+C:\Development\Winlogon Notification\WinlogonNotification.git\trunk\Win7EventsLibrary3.0_Complete_Project_03302013\Win7EventsLibrary\Win7EventsLibrary\bin\Release\Interop.SensEvents.dll
+C:\Development\Winlogon Notification\WinlogonNotification.git\trunk\Win7EventsLibrary3.0_Complete_Project_03302013\Win7EventsLibrary\Win7EventsLibrary\bin\Release\Interop.EventSystemLib.dll
+C:\Development\Winlogon Notification\WinlogonNotification.git\trunk\Win7EventsLibrary3.0_Complete_Project_03302013\Win7EventsLibrary\Win7EventsLibrary\bin\Release\ManagedSENS.pdb
+C:\Development\Winlogon Notification\WinlogonNotification.git\trunk\Win7EventsLibrary3.0_Complete_Project_03302013\Win7EventsLibrary\Win7EventsLibrary\bin\Release\Settings.pdb
+C:\Development\Winlogon Notification\WinlogonNotification.git\trunk\Win7EventsLibrary3.0_Complete_Project_03302013\Win7EventsLibrary\Win7EventsLibrary\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Development\Winlogon Notification\WinlogonNotification.git\trunk\Win7EventsLibrary3.0_Complete_Project_03302013\Win7EventsLibrary\Win7EventsLibrary\obj\x86\Release\Win7EventsLibrary.ProjectInstaller.resources
+C:\Development\Winlogon Notification\WinlogonNotification.git\trunk\Win7EventsLibrary3.0_Complete_Project_03302013\Win7EventsLibrary\Win7EventsLibrary\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Development\Winlogon Notification\WinlogonNotification.git\trunk\Win7EventsLibrary3.0_Complete_Project_03302013\Win7EventsLibrary\Win7EventsLibrary\obj\x86\Release\GenerateResource.write.1.tlog

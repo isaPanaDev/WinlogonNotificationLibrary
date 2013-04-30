@@ -1,0 +1,24 @@
+﻿<Win7EventSubscription>
+  <options sleep_milliseconds_after_logoff="5000" />
+  <logging enabled="true" path="C:\Temp\_Logon Screen Launcher.log" />
+  <events>
+    <event name="logon" execute_path="C:\Windows\system32\mspaint.exe">
+        
+      <!--start service_start="true" service_stop="false" logon="false" logoff="true" display_lock="true" display_unlock="false" /-->
+      <!--stop service_start="false" service_stop="true" logon="true" logoff="false" display_lock="false" display_unlock="true" /-->
+        <!--<start service_start="true" service_stop="false" logon="true" logoff="true" display_lock="true" display_unlock="false" /-->
+        <!--<stop service_start="false" service_stop="true" logon="false" logoff="true" display_lock="false" display_unlock="true" /-->
+    </event>
+      <event name="logoff" execute_path="C:\Users\dcnathan\Documents\Nathan\ELANCE\Source code and articles\logon\Sample Application\bin\Debug\SampleApplication.exe"> </event>
+      
+            
+      <event name="displaylock" execute_path="C:\Projects\Win7EventsLibrary\ServiceApp\bin\Debug\ServiceApp.exe"> </event>
+      
+      <event name="displayunlock" execute_path="C:\Windows\system32\cmd.exe" > </event>
+      <event name="servicestart" execute_path="C:\Program Files (x86)\indii.org\tintii\tintii.exe"> </event>
+      <event name="servicestop" execute_path="C:\Program Files (x86)\Google\Picasa3\Picasa3.exe"> </event>
+      <event name="ScreenSaverStart" execute_path=""> </event>
+      <event name="ScreenSaverStop" execute_path="C:\Program Files (x86)\indii.org\tintii\tintii.exe"> </event>
+      <event name="StartShell" execute_path="C:\Users\dcnathan\Documents\Nathan\ELANCE\Source code and articles\logon\Sample Application\bin\Debug\SampleApplication.exe"> </event>
+  </events>
+</Win7EventSubscription>

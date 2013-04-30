@@ -1,0 +1,3 @@
+
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\InstallUtil.exe -u "C:\Projects\Win7EventsLibrary\Win7EventsLibrary\bin\Debug\Win7EventsLibrary.exe"
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\InstallUtil.exe  "C:\Projects\Win7EventsLibrary\Win7EventsLibrary\bin\Debug\Win7EventsLibrary.exe"

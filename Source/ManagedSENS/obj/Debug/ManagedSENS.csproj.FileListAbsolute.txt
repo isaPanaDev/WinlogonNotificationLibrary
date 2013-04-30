@@ -1,0 +1,100 @@
+\\eurfiler2\WillsaN\MyGEOSProfile\FDR\MyDocuments\Visual Studio 2008\Projects\DotNetSENS\ManagedSENS\bin\Debug\ManagedSENS.dll
+\\eurfiler2\WillsaN\MyGEOSProfile\FDR\MyDocuments\Visual Studio 2008\Projects\DotNetSENS\ManagedSENS\bin\Debug\ManagedSENS.pdb
+\\eurfiler2\WillsaN\MyGEOSProfile\FDR\MyDocuments\Visual Studio 2008\Projects\DotNetSENS\ManagedSENS\bin\Debug\Interop.EventSystemLib.dll
+\\eurfiler2\WillsaN\MyGEOSProfile\FDR\MyDocuments\Visual Studio 2008\Projects\DotNetSENS\ManagedSENS\obj\Debug\ResolveAssemblyReference.cache
+\\eurfiler2\WillsaN\MyGEOSProfile\FDR\MyDocuments\Visual Studio 2008\Projects\DotNetSENS\ManagedSENS\obj\Debug\Interop.EventSystemLib.dll
+\\eurfiler2\WillsaN\MyGEOSProfile\FDR\MyDocuments\Visual Studio 2008\Projects\DotNetSENS\ManagedSENS\obj\Debug\ManagedSENS.csproj.ResolveComReference.cache
+\\eurfiler2\WillsaN\MyGEOSProfile\FDR\MyDocuments\Visual Studio 2008\Projects\DotNetSENS\ManagedSENS\obj\Debug\ManagedSENS.dll
+\\eurfiler2\WillsaN\MyGEOSProfile\FDR\MyDocuments\Visual Studio 2008\Projects\DotNetSENS\ManagedSENS\obj\Debug\ManagedSENS.pdb
+\\eurfiler2\WillsaN\MyGEOSProfile\FDR\MyDocuments\Visual Studio 2008\Projects\DotNetSENS\ManagedSENS\obj\Debug\Interop.SensEvents.dll
+\\eurfiler2\WillsaN\MyGEOSProfile\FDR\MyDocuments\Visual Studio 2008\Projects\DotNetSENS\ManagedSENS\bin\Debug\Interop.SensEvents.dll
+\\STEVE\Documents\Development\RBS\DotNetSENS\ManagedSENS\bin\Debug\ManagedSENS.dll
+\\STEVE\Documents\Development\RBS\DotNetSENS\ManagedSENS\bin\Debug\ManagedSENS.pdb
+\\STEVE\Documents\Development\RBS\DotNetSENS\ManagedSENS\bin\Debug\Interop.EventSystemLib.dll
+\\STEVE\Documents\Development\RBS\DotNetSENS\ManagedSENS\bin\Debug\Interop.SensEvents.dll
+\\STEVE\Documents\Development\RBS\DotNetSENS\ManagedSENS\obj\Debug\ResolveAssemblyReference.cache
+\\STEVE\Documents\Development\RBS\DotNetSENS\ManagedSENS\obj\Debug\Interop.EventSystemLib.dll
+\\STEVE\Documents\Development\RBS\DotNetSENS\ManagedSENS\obj\Debug\Interop.SensEvents.dll
+\\STEVE\Documents\Development\RBS\DotNetSENS\ManagedSENS\obj\Debug\ManagedSENS.csproj.ResolveComReference.cache
+\\STEVE\Documents\Development\RBS\DotNetSENS\ManagedSENS\obj\Debug\ManagedSENS.dll
+\\STEVE\Documents\Development\RBS\DotNetSENS\ManagedSENS\obj\Debug\ManagedSENS.pdb
+\\STEVE\Documents\Visual Studio 2008\Projects\Logon Screen Launcher\ManagedSENS\bin\Debug\ManagedSENS.dll
+\\STEVE\Documents\Visual Studio 2008\Projects\Logon Screen Launcher\ManagedSENS\bin\Debug\ManagedSENS.pdb
+\\STEVE\Documents\Visual Studio 2008\Projects\Logon Screen Launcher\ManagedSENS\bin\Debug\Interop.EventSystemLib.dll
+\\STEVE\Documents\Visual Studio 2008\Projects\Logon Screen Launcher\ManagedSENS\bin\Debug\Interop.SensEvents.dll
+\\STEVE\Documents\Visual Studio 2008\Projects\Logon Screen Launcher\ManagedSENS\obj\Debug\ResolveAssemblyReference.cache
+\\STEVE\Documents\Visual Studio 2008\Projects\Logon Screen Launcher\ManagedSENS\obj\Debug\Interop.EventSystemLib.dll
+\\STEVE\Documents\Visual Studio 2008\Projects\Logon Screen Launcher\ManagedSENS\obj\Debug\Interop.SensEvents.dll
+\\STEVE\Documents\Visual Studio 2008\Projects\Logon Screen Launcher\ManagedSENS\obj\Debug\ManagedSENS.csproj.ResolveComReference.cache
+\\STEVE\Documents\Visual Studio 2008\Projects\Logon Screen Launcher\ManagedSENS\obj\Debug\ManagedSENS.dll
+\\STEVE\Documents\Visual Studio 2008\Projects\Logon Screen Launcher\ManagedSENS\obj\Debug\ManagedSENS.pdb
+C:\Users\Steve Williams\Desktop\logonscreenlauncher\ManagedSENS\bin\Debug\ManagedSENS.dll
+C:\Users\Steve Williams\Desktop\logonscreenlauncher\ManagedSENS\bin\Debug\ManagedSENS.pdb
+C:\Users\Steve Williams\Desktop\logonscreenlauncher\ManagedSENS\bin\Debug\Interop.EventSystemLib.dll
+C:\Users\Steve Williams\Desktop\logonscreenlauncher\ManagedSENS\bin\Debug\Interop.SensEvents.dll
+C:\Users\Steve Williams\Desktop\logonscreenlauncher\ManagedSENS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Steve Williams\Desktop\logonscreenlauncher\ManagedSENS\obj\Debug\Interop.EventSystemLib.dll
+C:\Users\Steve Williams\Desktop\logonscreenlauncher\ManagedSENS\obj\Debug\Interop.SensEvents.dll
+C:\Users\Steve Williams\Desktop\logonscreenlauncher\ManagedSENS\obj\Debug\ManagedSENS.csproj.ResolveComReference.cache
+C:\Users\Steve Williams\Desktop\logonscreenlauncher\ManagedSENS\obj\Debug\ManagedSENS.dll
+C:\Users\Steve Williams\Desktop\logonscreenlauncher\ManagedSENS\obj\Debug\ManagedSENS.pdb
+C:\Users\Steve\Desktop\logonscreenlauncher\ManagedSENS\bin\Debug\ManagedSENS.dll
+C:\Users\Steve\Desktop\logonscreenlauncher\ManagedSENS\bin\Debug\ManagedSENS.pdb
+C:\Users\Steve\Desktop\logonscreenlauncher\ManagedSENS\bin\Debug\Interop.EventSystemLib.dll
+C:\Users\Steve\Desktop\logonscreenlauncher\ManagedSENS\bin\Debug\Interop.SensEvents.dll
+C:\Users\Steve\Desktop\logonscreenlauncher\ManagedSENS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Steve\Desktop\logonscreenlauncher\ManagedSENS\obj\Debug\Interop.EventSystemLib.dll
+C:\Users\Steve\Desktop\logonscreenlauncher\ManagedSENS\obj\Debug\Interop.SensEvents.dll
+C:\Users\Steve\Desktop\logonscreenlauncher\ManagedSENS\obj\Debug\ManagedSENS.csproj.ResolveComReference.cache
+C:\Users\Steve\Desktop\logonscreenlauncher\ManagedSENS\obj\Debug\ManagedSENS.dll
+C:\Users\Steve\Desktop\logonscreenlauncher\ManagedSENS\obj\Debug\ManagedSENS.pdb
+C:\Users\Steve\Desktop\logonscreenlauncher - Copy\ManagedSENS\bin\Debug\ManagedSENS.dll
+C:\Users\Steve\Desktop\logonscreenlauncher - Copy\ManagedSENS\bin\Debug\ManagedSENS.pdb
+C:\Users\Steve\Desktop\logonscreenlauncher - Copy\ManagedSENS\bin\Debug\Interop.EventSystemLib.dll
+C:\Users\Steve\Desktop\logonscreenlauncher - Copy\ManagedSENS\bin\Debug\Interop.SensEvents.dll
+C:\Users\Steve\Desktop\logonscreenlauncher - Copy\ManagedSENS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Steve\Desktop\logonscreenlauncher - Copy\ManagedSENS\obj\Debug\Interop.EventSystemLib.dll
+C:\Users\Steve\Desktop\logonscreenlauncher - Copy\ManagedSENS\obj\Debug\Interop.SensEvents.dll
+C:\Users\Steve\Desktop\logonscreenlauncher - Copy\ManagedSENS\obj\Debug\ManagedSENS.csproj.ResolveComReference.cache
+C:\Users\Steve\Desktop\logonscreenlauncher - Copy\ManagedSENS\obj\Debug\ManagedSENS.dll
+C:\Users\Steve\Desktop\logonscreenlauncher - Copy\ManagedSENS\obj\Debug\ManagedSENS.pdb
+C:\Users\Steve\Desktop\ip\logonscreenlauncher - Working\ManagedSENS\bin\Debug\ManagedSENS.dll
+C:\Users\Steve\Desktop\ip\logonscreenlauncher - Working\ManagedSENS\bin\Debug\ManagedSENS.pdb
+C:\Users\Steve\Desktop\ip\logonscreenlauncher - Working\ManagedSENS\bin\Debug\Interop.EventSystemLib.dll
+C:\Users\Steve\Desktop\ip\logonscreenlauncher - Working\ManagedSENS\bin\Debug\Interop.SensEvents.dll
+C:\Users\Steve\Desktop\ip\logonscreenlauncher - Working\ManagedSENS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Steve\Desktop\ip\logonscreenlauncher - Working\ManagedSENS\obj\Debug\Interop.EventSystemLib.dll
+C:\Users\Steve\Desktop\ip\logonscreenlauncher - Working\ManagedSENS\obj\Debug\Interop.SensEvents.dll
+C:\Users\Steve\Desktop\ip\logonscreenlauncher - Working\ManagedSENS\obj\Debug\ManagedSENS.csproj.ResolveComReference.cache
+C:\Users\Steve\Desktop\ip\logonscreenlauncher - Working\ManagedSENS\obj\Debug\ManagedSENS.dll
+C:\Users\Steve\Desktop\ip\logonscreenlauncher - Working\ManagedSENS\obj\Debug\ManagedSENS.pdb
+C:\Users\Steve\Desktop\ip\logonscreenlauncher\ManagedSENS\bin\Debug\ManagedSENS.dll
+C:\Users\Steve\Desktop\ip\logonscreenlauncher\ManagedSENS\bin\Debug\ManagedSENS.pdb
+C:\Users\Steve\Desktop\ip\logonscreenlauncher\ManagedSENS\bin\Debug\Interop.EventSystemLib.dll
+C:\Users\Steve\Desktop\ip\logonscreenlauncher\ManagedSENS\bin\Debug\Interop.SensEvents.dll
+C:\Users\Steve\Desktop\ip\logonscreenlauncher\ManagedSENS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Steve\Desktop\ip\logonscreenlauncher\ManagedSENS\obj\Debug\Interop.EventSystemLib.dll
+C:\Users\Steve\Desktop\ip\logonscreenlauncher\ManagedSENS\obj\Debug\Interop.SensEvents.dll
+C:\Users\Steve\Desktop\ip\logonscreenlauncher\ManagedSENS\obj\Debug\ManagedSENS.csproj.ResolveComReference.cache
+C:\Users\Steve\Desktop\ip\logonscreenlauncher\ManagedSENS\obj\Debug\ManagedSENS.dll
+C:\Users\Steve\Desktop\ip\logonscreenlauncher\ManagedSENS\obj\Debug\ManagedSENS.pdb
+C:\Users\dcnathan\Documents\Nathan\ELANCE\Source code and articles\logon\ManagedSENS\bin\Debug\ManagedSENS.dll
+C:\Users\dcnathan\Documents\Nathan\ELANCE\Source code and articles\logon\ManagedSENS\bin\Debug\ManagedSENS.pdb
+C:\Users\dcnathan\Documents\Nathan\ELANCE\Source code and articles\logon\ManagedSENS\bin\Debug\Interop.EventSystemLib.dll
+C:\Users\dcnathan\Documents\Nathan\ELANCE\Source code and articles\logon\ManagedSENS\bin\Debug\Interop.SensEvents.dll
+C:\Users\dcnathan\Documents\Nathan\ELANCE\Source code and articles\logon\ManagedSENS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dcnathan\Documents\Nathan\ELANCE\Source code and articles\logon\ManagedSENS\obj\Debug\Interop.EventSystemLib.dll
+C:\Users\dcnathan\Documents\Nathan\ELANCE\Source code and articles\logon\ManagedSENS\obj\Debug\Interop.SensEvents.dll
+C:\Users\dcnathan\Documents\Nathan\ELANCE\Source code and articles\logon\ManagedSENS\obj\Debug\ManagedSENS.csproj.ResolveComReference.cache
+C:\Users\dcnathan\Documents\Nathan\ELANCE\Source code and articles\logon\ManagedSENS\obj\Debug\ManagedSENS.dll
+C:\Users\dcnathan\Documents\Nathan\ELANCE\Source code and articles\logon\ManagedSENS\obj\Debug\ManagedSENS.pdb
+C:\Projects\Win7EventsLibrary\ManagedSENS\bin\Debug\ManagedSENS.dll
+C:\Projects\Win7EventsLibrary\ManagedSENS\bin\Debug\ManagedSENS.pdb
+C:\Projects\Win7EventsLibrary\ManagedSENS\bin\Debug\Interop.EventSystemLib.dll
+C:\Projects\Win7EventsLibrary\ManagedSENS\bin\Debug\Interop.SensEvents.dll
+C:\Projects\Win7EventsLibrary\ManagedSENS\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Win7EventsLibrary\ManagedSENS\obj\Debug\Interop.EventSystemLib.dll
+C:\Projects\Win7EventsLibrary\ManagedSENS\obj\Debug\Interop.SensEvents.dll
+C:\Projects\Win7EventsLibrary\ManagedSENS\obj\Debug\ManagedSENS.csproj.ResolveComReference.cache
+C:\Projects\Win7EventsLibrary\ManagedSENS\obj\Debug\ManagedSENS.dll
+C:\Projects\Win7EventsLibrary\ManagedSENS\obj\Debug\ManagedSENS.pdb
